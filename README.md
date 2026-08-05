@@ -19,7 +19,7 @@ pip install -r requirements.txt
 streamlit run momentum_analyzer.py
 ```
 
-Opens at `http://localhost:8501`
+Opens at `(https://momentumscreener21score.streamlit.app/)`
 
 ---
 
@@ -92,12 +92,6 @@ Opens at `http://localhost:8501`
 
 ---
 
-## Deploy Free on Streamlit Cloud
-
-1. Push code to a GitHub repo
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your repo → select `momentum_analyzer.py`
-4. Deploy — access from any device
 
 ---
 
